@@ -6,7 +6,7 @@
   background: linear-gradient(to bottom, #6a4e3a, #593c2d);
   border: none;
 }
-.hanaan {
+.footer-container {
   display: flex;
   justify-content: space-evenly;
   gap: 40px;
@@ -102,7 +102,7 @@
 }
 
 @media (max-width: 768px) {
-  .hanaan {
+  .footer-container {
     flex-direction: column;
     gap: 0px;
     padding-left: 20px;

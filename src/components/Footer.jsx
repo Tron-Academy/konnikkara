@@ -11,7 +11,7 @@ import { FaTwitterSquare } from "react-icons/fa";
 const Footer = () => {
   return (
     <footer className="footer">
-      <div className="hanaan">
+      <div className="footer-container">
         {/* Logo and Social Links */}
         <div className="footer-logo-social">
           <a href="#Home">
